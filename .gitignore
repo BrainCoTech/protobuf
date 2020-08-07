@@ -7,3 +7,5 @@ build/
 generated/
 packages
 pubspec.lock
+
+protobuf/skipoauth.dart.snapshot
