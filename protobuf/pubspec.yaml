@@ -4,6 +4,7 @@ description: >
   Runtime library for protocol buffers support.
   Use https://pub.dartlang.org/packages/protoc_plugin to generate dart code for your '.proto' files.
 homepage: https://github.com/dart-lang/protobuf
+publish_to: http://47.111.166.90:8081
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
